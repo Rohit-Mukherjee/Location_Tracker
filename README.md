@@ -60,27 +60,18 @@ Download the scriptSave the macOS script as insider-threat-locator.sh
 
 Make it executable
 
-```chmod +x insider-threat-locator.sh```
+```chmod +x MAC_OS_Script.sh```
 
 Run the script
 
-```./insider-threat-locator.sh```
+```./MAC_OS_Script.sh```
 
 OutputAll results are printed to terminal in a readable format.
 
 
 
-## 🔐 Privacy & Ethics
 
-This tool is intended only for authorized use by security analysts or incident responders. Use in compliance with your organization's internal policies and legal regulations.
-
-🗜️ Offline BSSID Fallback
-
-Both scripts support offline geolocation using pre-defined BSSIDs when Mozilla's API is unavailable.
-
-## Sample mapping in macOS version
-```OFFLINE_MAP["68:34:21:cb:c2:01"]="28.6139,77.2090,New Delhi, India"```
-
+### Note:
 Extend this list to fit your own organization's network infrastructure.
 
 
