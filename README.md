@@ -42,7 +42,7 @@ Download the scriptSave the PowerShell script as insider-threat-locator.ps1
 
 Run it with elevated permissions
 
-```powershell.exe -ExecutionPolicy Bypass -File .\insider-threat-locator.ps1```
+```powershell.exe -ExecutionPolicy Bypass -File .\Windows_OS_Script.ps1.ps1```
 
 OutputThe results are displayed in the console – no data is saved to disk.
 
